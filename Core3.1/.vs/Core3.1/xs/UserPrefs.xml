@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{AB0DBE03-DC1F-495B-BA02-76B366DF2EDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core3.1/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Core3.1/appsettings.json" Line="4" Column="5" />
+      <File FileName="Core3.1/Startup.cs" />
+      <File FileName="Core3.1/Models/AppDBContext.cs" />
+      <File FileName="Core3.1/Migrations/AppDBContextModelSnapshot.cs" />
+      <File FileName="Core3.1/Controllers/AccountController.cs" Line="97" Column="10" />
+      <File FileName="Core3.1/Views/Shared/_Layout.cshtml" Line="50" Column="23" />
+      <File FileName="Core3.1/Models/RegisterViewModel.cs" />
+      <File FileName="Core3.1/Models/LoginViewModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Core3.1" expanded="True">
+            <Node name="Core3.1" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Core3.1 PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
